@@ -1,2 +1,11 @@
+# Node Modules (pasta de dependencias, muito grande)
 node_modules/
+
+# Arquivo de variaveis de ambiente (nao deve ser publico)
 .env
+
+# Outros arquivos/pastas gerados automaticamente pelo projeto
+dist/
+temp/
+logs/
+npm-debug.log*
